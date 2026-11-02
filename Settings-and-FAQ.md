@@ -11,7 +11,7 @@ the bottom, and with a game loaded so does **Remove Imbued from this game**.
 | Setting | What it does | Default |
 |---|---|---|
 | Experience gained | Scales all experience a hunter earns, 25% to 300% | 100% |
-| Imbued among the wandering hunters | About one in four of Core's travellers and Mendicant Order hunters is imbued. Off, they're all ordinary people | On |
+| Imbued among the wandering hunters | About one in four of Core's travellers and order hunters is imbued. Off, they're all ordinary people | On |
 
 **Event chances**
 

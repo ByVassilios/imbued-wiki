@@ -40,7 +40,7 @@ anywhere on the map and fights as an enemy of its kind would, Edges first. Your 
 | The Imbuing | A colonist is imbued | Read it; the Messengers name the Creed |
 | A Virtue point | A hunter reaches 10 Conviction | Pick the Virtue to raise, or keep the Conviction for now |
 | A new Edge | Virtue points open an Edge | Pick it, or put it off |
-| Warning, call for help, mentor | From [the Courier Union](Hunter-Net.md) | Get ready, send a caravan, or follow the lead |
+| Warning, call for help, mentor | From [the other cells](Hunter-Net.md) | Get ready, send a caravan, or follow the lead |
 
 [← Contents](README.md)
 

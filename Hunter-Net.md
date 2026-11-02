@@ -1,4 +1,6 @@
-# The Courier Union
+# The other cells
+
+Hunter cells trade as an ordinary-looking faction whose name, color, people and post labels change every game, so its name tells you nothing.
 
 Other cells of hunters, scattered across the world. They stay hidden until the colony has its first
 hunter; then a letter shows them, and they're allies from then on.
@@ -14,13 +16,13 @@ value. A hunter with [Arsenal](Character-Sheet.md#backgrounds) gets better price
 
 Cells hunt the courts and septs near them, and get hunted back. A cell's hunters have names and outlive
 its fall: some die, some go missing, and the rest go to the nearest cell or start a new one. While
-the Courier Union is short of its cells, new ones are found about twice a year.
+the network is short of its cells, new ones are found about twice a year.
 
 - **Exposure.** Each cell has a rating, shown in words once you know it. Every hunt it makes and every
   witness who gets away raises it; lying low lowers it. A more exposed cell is struck more often.
 - **Sieges.** When a war is about to break a cell you know, it is under siege for a few days first, and
   a quest lets you go and help.
-- **Letters.** A cell you know falling gets a letter, and taking one yourself says so. The Courier Union
+- **Letters.** A cell you know falling gets a letter, and taking one yourself says so. The other cells
   traffic brings rumors of the rest.
 - **Refugees.** Hunters who like the colony and are within reach may ask to join. Your hunters gain
   Conviction against whatever kind of monster did it.
@@ -40,7 +42,7 @@ time and keep one alive, and the cell pays 300 silver and the net thinks better 
 
 ## Asking for help
 
-The Courier Union is an ally, so the comms console's call for military aid reaches it, and a few hunters
+The other cells are an ally, so the comms console's call for military aid reaches them, and a few hunters
 come to fight beside the colony.
 
 ## Mentors
@@ -52,7 +54,7 @@ hunters knows.
 
 ## Hunters in other bands
 
-About one in four of Core's wandering travellers and Mendicant Order hunters is imbued, mostly
+About one in four of Core's wandering travellers and order hunters is imbued, mostly
 Avengers, Defenders and Judges, with two or three Edges. They see through a vampire's mask without a
 roll, and a mendicant hunter goes straight for a masked vampire. They use their Edges in a fight. A
 setting turns them off.

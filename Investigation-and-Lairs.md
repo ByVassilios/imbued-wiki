@@ -46,7 +46,7 @@ A lead opens a lair on the world map 2 to 8 tiles away, as a quest in the Quests
 lair is cleared:
 
 - A monster named while visiting gives its lead when it leaves the map.
-- A witness who got away with what a visiting monster did tells the Courier Union, and that monster gives its
+- A witness who got away with what a visiting monster did tells the other cells, and that monster gives its
   lead when it leaves. A colonist's breach never does.
 - A monster a colony hunter is trailing gives it as it goes.
 - Pinpoint at three successes gives the lair of the monster's kind.
