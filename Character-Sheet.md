@@ -8,7 +8,7 @@ Only the three that change play are kept, so most hunters have one or two dots b
 | Background | What it does |
 |---|---|
 | Destiny | Once a day for each dot, a botched Edge roll is rolled again |
-| Arsenal | 3% better prices a dot when this hunter trades with a [hunter cell's](Hunter-Net.md) post. A hunter who starts with it brings a hunter weapon a dot: a stake crossbow, a fire lance, an aspergillum, an incendiary shotgun |
+| Arsenal | 3% better prices a dot when this hunter trades with a [hunter cell's](Hunter-Net.md) post. A hunter who starts with it packs an extra hunter weapon a dot: a stake crossbow, a fire lance, an aspergillum, an incendiary shotgun |
 | Mentor | An older hunter visits now and then with a monster's weakness or the lair of a monster the colony knows. More dots, more visits |
 
 ## Awareness

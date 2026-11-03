@@ -19,6 +19,8 @@ Three scenarios start you with hunters.
 | Lone survivor | One new hunter. A shambler raid comes about two and a half days in |
 | Hunting party | Four veterans with six to eight Virtue points, two or three Edges each and hunter weapons, and a revenant's lair on the world map |
 
+Each colonist in these scenarios starts with one random weapon in hand, picked from the scenario's own list. Some scenarios add a steel helmet, a robe or both. Arsenal packs an extra hunter weapon a dot on top.
+
 To make your own, add the "starting hunters" part in the scenario editor. It sets how many of the
 first colonists are hunters.
 

@@ -31,7 +31,7 @@ Witness or Illuminate the mark names what kind it is.
 ## Unleash
 
 A drafted colonist has an **Unleash** button beside Fire at will. It goes after the nearest enemy
-anywhere on the map and fights as an enemy of its kind would, Edges first. Your orders come first, and once one is done it goes back to the hunt. Undrafting ends it.
+anywhere on the map and fights as an enemy of its kind would, Edges first. Anyone with a gun backs away from melee fighters and looks for cover. A pawn scared by a power stays on the map and goes back to the fight when the panic ends. Your orders come first, and once one is done it goes back to the hunt. Undrafting ends it.
 
 ## Letters
 
