@@ -15,8 +15,8 @@ Willpower as bars.
 | Known monsters | Every monster this hunter knows for what it is |
 | Habits | Risking Conviction and autocast. Click a row to change it |
 
-At the foot: **Roll log**, the colony's last rolls and how each came out, and **Suspects**, the
-[suspect list](Investigation-and-Lairs.md#the-suspect-list).
+At the foot: **Roll log**, the colony's last rolls and how each came out, and **Cases**, the
+[case window](Investigation-and-Lairs.md#the-case-window).
 
 ## Edge tiles
 
@@ -31,14 +31,16 @@ Witness or Illuminate the mark names what kind it is.
 ## Unleash
 
 A drafted colonist has an **Unleash** button beside Fire at will. It goes after the nearest enemy
-anywhere on the map and fights as an enemy of its kind would, Edges first. Anyone with a gun backs away from melee fighters and looks for cover. A pawn scared by a power stays on the map and goes back to the fight when the panic ends. Your orders come first, and once one is done it goes back to the hunt. Undrafting ends it.
+anywhere on the map and fights as an enemy of its kind would, Edges first. Anyone with a gun backs away from melee fighters and looks for cover. A pawn scared by a power stays on the map and goes back to the fight when the panic ends. Your orders come first, and once one is done it goes back to the hunt. Undrafting ends it. While it's on, a **Pick target** button chooses the enemy it goes after. Once that enemy is down or gone it picks the nearest one again, and clicking the button clears the target early.
+
+An Edge aimed out of range or out of sight walks the hunter closer, then fires.
 
 ## Letters
 
 | Letter | When | What to do |
 |---|---|---|
 | The Imbuing | A colonist is imbued | Read it; the Messengers name the Creed |
-| A Virtue point | A hunter reaches 10 Conviction | Pick the Virtue to raise, or keep the Conviction for now |
+| A Virtue point | A hunter reaches 10 Conviction | Pick the Virtue to raise, or keep the Conviction for now. Choose a Virtue on the Imbued tab does the same later |
 | A new Edge | Virtue points open an Edge | Pick it, or put it off |
 | Warning, call for help, mentor | From [the other cells](Hunter-Net.md) | Get ready, send a caravan, or follow the lead |
 

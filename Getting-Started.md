@@ -2,7 +2,7 @@
 
 ## Install
 
-You need RimWorld 1.6, Harmony and The Rim by Night: Core. Load order: Harmony, Core, then Imbued.
+You need RimWorld 1.6 or 1.7, Harmony and The Rim by Night: Core. Load order: Harmony, Core, then Imbued.
 No DLC is needed. Kindred and Garou can load alongside it, in any combination; see
 [Living with monsters](Living-with-Monsters.md).
 

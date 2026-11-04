@@ -27,7 +27,8 @@ or Garou loaded, hunters go after vampires and werewolves too.
 | [Edges](Edges.md) | Buying Edges, risking Conviction, every Edge |
 | [Character sheet](Character-Sheet.md) | Backgrounds, Awareness, Attributes, Willpower and experience |
 | [The afflicted](The-Walking-Dead.md) | Shamblers, revenants, the hidden and the necromancer |
-| [Investigation and lairs](Investigation-and-Lairs.md) | Clues, the suspect list, naming a monster, leads and lairs |
+| [Investigation and lairs](Investigation-and-Lairs.md) | Clues, prowling visitors, town cases, talking to townsfolk, rewards, naming a monster, leads and lairs |
+| [The table, the horror and the last stand](Hunter-Tools.md) | The autopsy table, files and notes, the first horror, bait, last stands, errands, sparing |
 | [The other cells](Hunter-Net.md) | The other cells, warnings, calls for help, mentors, hunters in other bands |
 | [Living with monsters](Living-with-Monsters.md) | Vampire and Garou colonists, and what each Creed does about them |
 | [Menus and buttons](Interface.md) | The Imbued tab, Edge tiles, letters |

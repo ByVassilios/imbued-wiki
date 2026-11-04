@@ -1,7 +1,7 @@
 # Being imbued
 
 An imbued hunter is still human. They don't heal faster, they don't frenzy, and a bullet hurts
-them like anyone else. What they have is sight, Conviction, Edges and each other.
+them like anyone else. What they have is sight, Conviction, Edges and each other. They also stand and fight where another colonist would run, until they're below half health or hiding. The Ignore response still holds them back.
 
 ## The Imbuing
 
@@ -21,7 +21,8 @@ What the colonist does in the next three seconds picks the Virtue:
 Traits and passions then pick the Creed within that Virtue; see
 [Creeds and Virtues](Creeds-and-Virtues.md). A letter from the Messengers names it. The new hunter
 starts with two points in the Creed's Virtue and one more rolled among the three, Conviction at the
-Creed's level, and the first Edge of the Creed's path.
+Creed's level, and the first Edge of the Creed's path. Every hunter also holds True Faith 5, the most
+there is: vampires fear it, and it adds to Willpower.
 
 ## Bystanders
 
@@ -33,7 +34,7 @@ they know monsters exist: they panic a little less, and they work 10% faster at 
 Conviction (1 to 10) is the hunter's certainty that they're doing right. It pays for second sight
 and for most Edges above level 3. It comes back after each threat ends, up to the Creed's level, and
 deeds raise it past that. At 0 the hunter is an ordinary person to every monster, and a mood thought
-says so. At 10 the hunter can cash it all in for a Virtue point.
+says so. At 10 the hunter can cash it in for a Virtue point, which leaves them at 3.
 
 ## Second sight
 

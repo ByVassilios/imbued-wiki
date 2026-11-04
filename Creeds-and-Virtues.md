@@ -27,7 +27,7 @@ Within the Virtue the act picked, the Creed leans by what the colonist is like:
 ## Virtues
 
 Mercy, Vision and Zeal run from 0 to 10. The Creed's own Virtue, the primary, is never passed by the
-other two. Virtues rise only one way: cashing in 10 Conviction. A letter lists the Virtues that may
+other two. Virtues rise only one way: cashing in 10 Conviction, by the letter or the Imbued tab's Choose a Virtue link. Both list the Virtues that may
 rise and the Edges each would open, and the hunter drops to 0 Conviction after.
 
 ## Deeds
@@ -37,11 +37,11 @@ Each deed gives 1 Conviction, once a day for each kind.
 | Creed | The deed |
 |---|---|
 | Avenger | Kills a monster, or fights three at once and lives |
-| Defender | Carries a colonist a monster hurt to safety |
+| Defender | Carries a colonist a monster hurt to safety, or takes a monster's blow with a downed or non-fighting colonist within 2 cells |
 | Judge | Shows a disguised monster for what it is |
 | Innocent | Talks to a monster and walks away |
 | Martyr | Gets hurt by a monster standing over a downed friend |
-| Redeemer | Heals someone a monster hurt |
+| Redeemer | Heals someone a monster hurt, or spares a downed monster |
 | Visionary | Learns a weakness, a past or a lair |
 
 Any hunter also gains a point for killing a monster with fire, a trap or sunlight, and for winning

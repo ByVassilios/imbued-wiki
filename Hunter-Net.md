@@ -2,8 +2,17 @@
 
 Hunter cells trade as an ordinary-looking faction whose name, color, people and post labels change every game, so its name tells you nothing.
 
-Other cells of hunters, scattered across the world. They stay hidden until the colony has its first
-hunter; then a letter shows them, and they're allies from then on.
+Other cells of hunters, scattered across the world. They stay hidden until one reaches out: 3 to 8
+days after the colony's first hunter, the nearest cell sends a letter naming only itself, and the
+cells are allies from then on.
+
+The other cells stay off the world map one by one until you learn of them. A letter or call for help
+from a cell shows it, a raid shows where it came from, your hunters can meet its people, and a cell
+you know will now and then vouch for another.
+
+Hunters don't get a list of monsters either. A town's inspect line says who lives there only after a
+hunter has seen them for what they are on that map: "Found out here so far", as a share of the town,
+counting each person once.
 
 ## Cells
 
@@ -28,6 +37,18 @@ the network is short of its cells, new ones are found about twice a year.
   Conviction against whatever kind of monster did it.
 
 Core's settings, under The world of darkness, have a switch for all of this (off: a fallen home's people just vanish), a bloodiness slider for falls with no battle, and a world pace slider.
+
+## Standing
+
+The colony's standing with hunter-net is its goodwill with the cells. Each solved
+[case](Investigation-and-Lairs.md#solving-a-case) raises it by 10 to 25, more for a harder case.
+
+| Standing | What it opens |
+|---|---|
+| 20 | Tips: every four days or so an open case gets a letter from a cell that knows the town. It tells what kind of monster did it, or once that's known, rules out an innocent suspect |
+| 40 | A hunter-net trader caravan comes by now and then, selling the arsenal, medicine and chemfuel |
+| 60 | **Call a cell** in the case window: two hunters come to the case's town or lair, once every ten days |
+| 80 | Rumours come from 8 tiles farther, and cases pay a quarter more |
 
 ## Warnings
 
