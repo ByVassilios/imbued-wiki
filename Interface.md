@@ -23,6 +23,11 @@ At the foot: **Roll log**, the colony's last rolls and how each came out, and **
 One tile on the gizmo bar for each path the hunter has an Edge on. Click it for the path's Edges,
 pick one, then pick the target. An Edge that can't be used now is greyed, with the reason.
 
+Hover an Edge to see its roll: the Attribute and Virtue with their dice, the total and the
+difficulty, or the rule for it before a target is picked ("the target's Stamina + 2"). Conviction
+risked shows up only in the roll itself. The roll log puts each roll's parts in a grey line under it,
+and an Edge's grimoire page has the formula in a box at the top.
+
 ## Marks
 
 While a hunter's second sight is up, every monster in sight has a mark over it. With Discern,
