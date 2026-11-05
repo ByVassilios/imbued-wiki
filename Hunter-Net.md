@@ -65,6 +65,7 @@ time and keep one alive, and the cell pays 300 silver and the net thinks better 
 
 The other cells are an ally, so the comms console's call for military aid reaches them, and a few hunters
 come to fight beside the colony.
+Without a console, pin **Ask for help** on [the hunters' board](Captured-Monsters-and-the-Board.md#your-own-notes).
 
 ## Mentors
 

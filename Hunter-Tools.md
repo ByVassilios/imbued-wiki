@@ -75,6 +75,8 @@ A cork board of clippings, built from 20 wood (Misc). Each solved case adds one,
 when, who and where. Colonists who see it feel better the more cases it holds: +1 mood at 1 solved case, +2 at 3,
 +3 at 6, +4 at 11.
 
+The board also takes the other cells' notes: see [the hunters' board](Captured-Monsters-and-the-Board.md#the-hunters-board).
+
 ## Keepsakes
 
 Two solved cases in five leave something of the culprit's, named for it: a tooth, a ring, a claw, a locket, a key or
