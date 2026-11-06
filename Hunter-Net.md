@@ -21,6 +21,28 @@ Four cell settlements, two of them within reach of the colony. Their people are 
 crossbow, fire lance, aspergillum, incendiary shotgun) with plain supplies, and buys anything of
 value. A hunter with [Arsenal](Character-Sheet.md#backgrounds) gets better prices.
 
+## Talking to people
+
+In a cell's town, select a colonist and right-click anyone of the cell to **Talk to** them. The talk
+window works as it does in a case: pick what to ask about, then how to put it (Kindly, Firmly,
+Threaten, Bribe). Each person answers one question, then wants three days before the next (a
+setting). Nobody lies, so a poor roll just gets nothing.
+
+- **What's the news?** Word of the world's cells, courts and septs.
+- **Where is...** Hunters speaking to hunters get the nearest cell you don't know yet.
+- **Have you seen...** A colonist someone took. The settlement holding them goes on the map.
+- **What troubles you?** Something is feeding on a town nearby, and the cell hands you the case.
+
+A hunter can also put **Conviction** behind any question, here or anywhere else the window opens: a
+point of Conviction for Charisma + Social at 6 with one success already counted.
+
+A threat costs the town 3 goodwill whatever the roll. A hunter talking in a court's or a sept's town
+passes for an ordinary visitor. Asking kindly and bribing are safe. A threat gives it away one time
+in five, a failed roll one in ten and a botch one in two. Found out, the town turns on the colony.
+
+The same right-click questions a prisoner that isn't a known monster (**Question ...**), for where it
+comes from, what it knows and what it is, and talks a witness out of what they saw.
+
 ## When a cell falls
 
 Cells hunt the courts and septs near them, and get hunted back. A cell's hunters have names and outlive
