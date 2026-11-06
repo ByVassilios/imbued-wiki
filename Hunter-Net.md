@@ -29,7 +29,8 @@ Threaten, Bribe). Each person answers one question, then wants three days before
 setting). Nobody lies, so a poor roll just gets nothing.
 
 - **What's the news?** Word of the world's cells, courts and septs.
-- **Where is...** Hunters speaking to hunters get the nearest cell you don't know yet.
+- **Where is...** Hunters speaking to hunters can ask the way to the nearest cell you don't know
+  yet. The question only shows up when there is one.
 - **Have you seen...** A colonist someone took. The settlement holding them goes on the map.
 - **What troubles you?** Something is feeding on a town nearby, and the cell hands you the case.
 
