@@ -54,6 +54,13 @@ the network is short of its cells, new ones are found about twice a year.
   witness who gets away raises it; lying low lowers it. A more exposed cell is struck more often.
 - **Sieges.** When a war is about to break a cell you know, it is under siege for a few days first, and
   a quest lets you go and help.
+- **Requests.** The nearest cell you know asks for help through the storyteller: keep a witness for
+  two days (about one time in three the witness is one of the hidden dead, and shows it the first
+  night), hold a captured walking dead as your prisoner for five days until the cell comes for it,
+  lend one of your hunters for five days (they come back with a point of Conviction), or bring
+  stakes, holy water, silver nitrate or salt by caravan. Each pays silver and one of the arsenal's
+  weapons, with 10 goodwill.
+- **The Messengers' errands** show in the Quests tab until the spot fades at dusk.
 - **Letters.** A cell you know falling gets a letter, and taking one yourself says so. The other cells
   traffic brings rumors of the rest.
 - **Refugees.** Hunters who like the colony and are within reach may ask to join, as an offer in
