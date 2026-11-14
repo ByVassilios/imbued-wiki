@@ -98,6 +98,28 @@ The other cells are an ally, so the comms console's call for military aid reache
 come to fight beside the colony.
 Without a console, pin **Ask for help** on [the Hunters' Board](Captured-Monsters-and-the-Board.md#your-own-notes).
 
+## Requests
+
+Once the colony knows a friendly cell, the cells and the Creeds write with requests. Each answers with Accept or
+Refuse; a refusal is noticed. Every one has its own switch and frequency in the settings.
+
+- **Case files.** Once your hunter notes are worth it (autopsies and copied files), a cell asks to read them for 2 to 6
+  nights. The monsters in them may come to burn them.
+- **Teaching.** A guest asks to learn a skill one of your colonists has at 10 or more, what your notes know of a
+  monster kind, or an Edge one of your hunters has, one lesson a night (right-click the guest).
+- **Rescues.** A hunter chased by a monster (it follows after dark), a hunter wanted by a cover-up (the law may come),
+  and a hunter left bound at the map's edge (carry them to a bed). Each saved life leaves the cell owing help: the
+  Hunter-net page has a **Call in a cell's help** link while any is owed.
+- **Favours.** Hold a cell's captive monster for a season (it comes drugged by drop pod; carry it to a prison bed),
+  foster a new imbued, send stakes, silver or silver nitrate, host two cells at odds for a night, patch up a hurt
+  hunter, lend a skilled colonist for a season.
+- **Creed requests.** Each Creed asks its own: the Avengers a monster put down (a lead opens), the Defenders a family
+  guarded, the Judges a ruling on a monster you hold, the Innocents one spared, the Martyrs a risk taken for another
+  cell, the Redeemers a monster talked round, the Visionaries what the Messengers want (a case opens). They pay more
+  by the worth of the hunter's Edges, the sum of their levels, in steps at 3, 6 and 10.
+
+A guest hurt or killed in your care costs 10 goodwill.
+
 ## Mentors
 
 A hunter with the Mentor Background is visited now and then by an older hunter, more often for more

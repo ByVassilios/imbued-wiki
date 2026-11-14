@@ -17,7 +17,7 @@ the Hunters tab on its cases.
 
 ## The Hunters tab
 
-A button on the bottom bar once the colony has a hunter. Its three pages:
+A button on the bottom bar once the colony has a hunter. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and chips at the top right of each window switch to the others; the Core setting **One bottom-bar button** turns that off. Its three pages:
 
 | Page | What it shows |
 |---|---|
@@ -46,6 +46,10 @@ A drafted colonist has an **Unleash** button beside Fire at will. It goes after 
 anywhere on the map and fights as an enemy of its kind would, Edges first. Anyone with a gun backs away from melee fighters and looks for cover. A pawn scared by a power stays on the map and goes back to the fight when the panic ends. Your orders come first, and once one is done it goes back to the hunt. Undrafting ends it. While it's on, a **Pick target** button chooses the enemy it goes after. Once that enemy is down or gone it picks the nearest one again, and clicking the button clears the target early.
 
 An Edge aimed out of range or out of sight walks the hunter closer, then fires.
+
+## Choice lists
+
+Most menus open a list beside the window you clicked in, or above the gizmo. A long list has filters down the left with a count beside each, and **Can pick only** hides what can't be had yet. Click a row to read about it on the right, then press **Choose**, double-click it, or press Enter. A greyed row says under it what's missing. A list with nothing to read takes the row on one click.
 
 ## Alerts
 
