@@ -120,6 +120,20 @@ Refuse; a refusal is noticed. Every one has its own switch and frequency in the 
 
 A guest hurt or killed in your care costs 10 goodwill.
 
+## Hosting meetings
+
+The Hunter-net page has an "Ask to host" link for the highest meeting the colony can host now (greyed with the
+reason when none is), and a cell writes when one opens. Each is hosted once a year at most.
+
+| Goodwill | Meeting | Nights |
+|---|---|---|
+| 40 | Regional meet: leads shared round a table, then a hunt planned, which opens a lead | 2 |
+| 60 | Creed summit: Mercy, Vision and Zeal argue what the Messengers want, then the net votes on its aim | 2 |
+| 80 | Great hunt: cells muster at the colony, plan a strike on a nest (a lair opens) and march out | 3 |
+
+Each needs free beds and meals for every guest and night, and fighters on guard; the dead may strike on one night.
+The host's skill rolls decide each night, and a good showing pays goodwill and xp for the host.
+
 ## Mentors
 
 A hunter with the Mentor Background is visited now and then by an older hunter, more often for more
