@@ -17,7 +17,7 @@ the Hunters tab on its cases.
 
 ## The Hunters tab
 
-A button on the bottom bar once the colony has a hunter. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and chips at the top right of each window switch to the others; the Core setting **One bottom-bar button** turns that off. Its three pages:
+A button on the bottom bar once the colony has a hunter. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and a list down the left side of each window names every one with its pages, so a click opens any page of any of them; the Core setting **One bottom-bar button** turns that off. Its three pages:
 
 | Page | What it shows |
 |---|---|

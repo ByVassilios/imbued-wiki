@@ -28,6 +28,8 @@ window works as it does in a case: pick what to ask about, then how to put it (K
 Threaten, Bribe). Each person answers one question, then wants three days before the next (a
 setting). Nobody lies, so a poor roll just gets nothing.
 
+- **Small talk.** The weather, the neighbours, whatever is on their mind. It costs nothing, always
+  gets an answer, and can go on all night.
 - **What's the news?** Word of the world's cells, courts and septs.
 - **Where is...** Hunters speaking to hunters can ask the way to the nearest cell you don't know
   yet. The question only shows up when there is one.
@@ -131,7 +133,7 @@ reason when none is), and a cell writes when one opens. Each is hosted once a ye
 | 60 | Creed summit: Mercy, Vision and Zeal argue what the Messengers want, then the net votes on its aim | 2 |
 | 80 | Great hunt: cells muster at the colony, plan a strike on a nest (a lair opens) and march out | 3 |
 
-Each needs free beds and meals for every guest and night, and fighters on guard; the dead may strike on one night.
+Each needs free beds and meals for every guest and night; the dead may strike on one night.
 The host's skill rolls decide each night, and a good showing pays goodwill and xp for the host.
 
 ## Mentors

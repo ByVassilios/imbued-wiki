@@ -53,6 +53,12 @@ loaded, hunters go after vampires and werewolves too.
 **Can a vampire or a Garou be imbued?** No. One kind per pawn: no vampire, ghoul, Garou or
 sanguophage is ever imbued.
 
+**Can I get into a hostile town without attacking it?** Yes. A caravan standing on any hostile town
+gets **Sneak in** beside Attack, at night only, whoever is in it. The caravan walks onto the town's map
+unseen, and the town's people and guns can't go for anyone they haven't found. A townsman with a clear
+view may notice something move, less often in the dark, and the town then searches round that spot. A
+searcher who comes close may find who is there. Attacking anyone gives the attacker away.
+
 **My hunter can't see a monster.** Check their Conviction: at 0 they're an ordinary person. A very old
 or powerful monster can also be too strong for their sight.
 
