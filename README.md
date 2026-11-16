@@ -31,6 +31,7 @@ or Garou loaded, hunters go after vampires and werewolves too.
 | [The table, the horror and the last stand](Hunter-Tools.md) | The autopsy table, files and notes, the first horror, bait, last stands, errands, sparing |
 | [Captured monsters and the board](Captured-Monsters-and-the-Board.md) | Talking to a monster prisoner, redemption, letting it go on its word, the cells' notes on the Hunters' Board |
 | [The other cells](Hunter-Net.md) | The other cells, warnings, calls for help, mentors, hunters in other bands |
+| [The sworn cell](The-Sworn-Cell.md) | Throwing in with one cell, its imbued by name, roles and duties, the vote, enemies inside, war |
 | [Living with monsters](Living-with-Monsters.md) | Vampire and Garou colonists, and what each Creed does about them |
 | [Menus and buttons](Interface.md) | The Imbued tab, Edge tiles, letters |
 | [Settings and FAQ](Settings-and-FAQ.md) | Mod settings, compatibility, common questions |
