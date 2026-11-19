@@ -20,7 +20,7 @@ a size. A cell that falls frees the colony with a letter.
 
 ## People
 
-The People page lists every named imbued: role, Creed and regard, with a filter for friends, rivals and
+The People page lists every named imbued: role, cell (Creed for those in none) and regard, with a filter for friends, rivals and
 enemies. Click a hunter to see their personality, means, goal, friends and dislikes. You only see a hunter's personality and means once you've **met** them: talked to them in their
 town or finished a mission they gave.
 
@@ -72,6 +72,29 @@ is three steps: two missions bent to it, then the prize. Keeping the prize is a 
 | Kingmaker | the new Leader starts at regard +6 |
 | Homecoming | another cell, met |
 | Buried secret | a life favour |
+
+## Cells of the local hunt
+
+The hunters round a cell work in smaller cells of their own: two to four, each around its strongest hunter, the one leading the local hunt first. Each
+has a temperament that sets what it wants, what it pays in, which others it gets on with and which it feuds with. The
+**Cells** page of the cell's window shows them as cards: temperament, members, power out of 20 in ten cells, and a bar
+for what they think of you. While you're sworn there, that bar is the average regard of its members.
+
+Pick one to see its leader, members, allies and feuds, and **Ask them for work**: one of their own missions, once every
+five days, shown in the Quests tab to accept there. Done, the cell gains a point of power and 2 regard. A
+cell that thinks -5 of you or worse gives no work.
+
+When a rival comes within two power of the leader's cell and stays there for 30 days, it tries to take over the local hunt. The
+showdown comes 20 to 40 days later: the hunters round it pick a side. Each side's chance is its power against the other's; a deciding mission
+done for a side counts two. **Back** a side from the page: 6 standing if it wins, 6 lost if it doesn't, and the winners'
+regard moves the same way. Plotters who win take the lead, and nobody plots again for 60 days.
+
+| Temperament | Wants | Missions |
+|---|---|---|
+| Zealous | every monster dead | a monster off their hands, covering their tracks |
+| Merciful | the innocent kept out of it | a shared case, covering their tracks |
+| Visionary | to know why they were chosen | a shared case, a monster off their hands |
+| Wary | to stay alive and unknown | covering their tracks |
 
 ## Roles
 
