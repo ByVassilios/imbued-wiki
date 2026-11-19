@@ -20,8 +20,8 @@ a size. A cell that falls frees the colony with a letter.
 
 ## People
 
-The People page lists every named imbued: role, Creed, personality, means and regard, with a filter for friends,
-rivals and enemies. You only see a hunter's personality and means once you've **met** them: talked to them in their
+The People page lists every named imbued: role, Creed and regard, with a filter for friends, rivals and
+enemies. Click a hunter to see their personality, means, goal, friends and dislikes. You only see a hunter's personality and means once you've **met** them: talked to them in their
 town or finished a mission they gave.
 
 | Regard event | Change |
@@ -105,6 +105,8 @@ and question them in prisoner talk to learn who sent them, then **Accuse** that 
 With Kindred or Garou loaded, a war runs against the nearest court or sept the cell would hunt. Its score starts at
 50: a season of incursions, two of raids on their havens and lairs while you hold your safehouse, armory, informant
 and lab, then the final assault at 70, the desperate defence at 30, or a truce. With Imbued alone there's no war.
+
+The skirmishes come a few weeks apart. A war mission you let lapse is fought without you: the cell's members against the enemy's, by their strength, and members can die in it. Hover over the stages, the score and the holdings on the War page for what each one needs.
 
 ## Settings
 

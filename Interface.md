@@ -10,20 +10,23 @@ Willpower as bars. Under them, four pages:
 | Character | The Creed, its deeds and its betrayals (hover for more); Mercy, Vision and Zeal as dots, the primary marked, with Virtue points not yet spent on an Edge ringed in gold; Willpower; Awareness, Destiny, Arsenal and Mentor |
 | Attributes | The nine Attributes in three columns, Physical, Social and Mental. Hover the next dot for its cost in experience (the header shows how much there is) and click it to buy |
 | Edges | Every Edge the hunter has, and **Learn an Edge...** when points are waiting |
-| The hunt | Every monster this hunter knows for what it is, the colony's open files, and the habits: risking Conviction and autocast. Click a habit to change it |
+| The hunt | Every monster this hunter knows for what it is, the colony's open files, and the habits: risking Conviction, autocast and Willpower. Click a habit to change it |
 
 At the foot: **Roll log**, the colony's last rolls and how each came out, and **Cases**, which opens
 the Hunters tab on its cases.
 
 ## The Hunters tab
 
-A button on the bottom bar once the colony has a hunter. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and a list down the left side of each window names every one with its pages, so a click opens any page of any of them; the Core setting **One bottom-bar button** turns that off. Its three pages:
+A button on the bottom bar once the colony has a hunter. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and a list down the left side of each window names every one with its pages, so a click opens any page of any of them; the Core setting **One bottom-bar button** turns that off. Its six pages:
 
 | Page | What it shows |
 |---|---|
+| Overview | The Hunter-Net's goodwill toward the colony, the nearest or sworn cell, the help cells owe you, then the hunt: how many cases are open, a captive you hold for a cell, and how long the dead stay quiet |
+| Cells | Each cell the colony knows, nearest first, with who leads it. Hover a row for how far away it is and how many hunt there. **Open** opens the cell's window; a click on the rest of the row finds it on the world map |
 | Cases | The [case window](Investigation-and-Lairs.md#the-case-window) |
 | Hunters' Board | The notes and clippings on the colony's [Hunters' Board](Captured-Monsters-and-the-Board.md#the-hunters-board), once one is built. The board's own button opens this page |
-| Hunter-Net | The Hunter-Net's goodwill toward the colony, and each cell the colony knows with how many hunt there. **Go to** shows the cell on the world map |
+| Chronicle | News of the cells reaching the colony, newest first: battles won and lost. Click an entry to find the cell |
+| Our story | The colony's own hunters: who was imbued, last stands, monsters put down and dissections, newest first. Buttons over the list show one hunter's lines; click a line to find them |
 
 ## Edge tiles
 

@@ -23,8 +23,14 @@ health. Experience raises them: a dot costs four times the current rating, up to
 ordinary person's gives the same small bonuses it gives Kindred and Garou (melee damage for
 Strength, dodge for Dexterity, and so on).
 
-Willpower is the ordinary kind. It pays for mundane feats, never for Edges, and a dot costs its
-current rating.
+Willpower is the ordinary kind. It pays for mundane feats, never for an Edge's cost, and a dot costs its
+current rating. The **Willpower** habit on the tab says when the hunter spends it:
+
+| Setting | What happens |
+|---|---|
+| Never spend | Willpower is never spent on rolls |
+| To resist the mind | The default. A point goes against a monster's power over the mind (Dominate, a Gift of fear, a Mind spell) and makes it one step harder |
+| Spend freely | As above, and a point on each Edge roll and each Virtue roll to sway someone, for one sure success |
 
 ## Experience
 

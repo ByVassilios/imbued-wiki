@@ -110,8 +110,8 @@ Refuse; a refusal is noticed. Every one has its own switch and frequency in the 
 - **Teaching.** A guest asks to learn a skill one of your colonists has at 10 or more, what your notes know of a
   monster kind, or an Edge one of your hunters has, one lesson a night (right-click the guest).
 - **Rescues.** A hunter chased by a monster (it follows after dark), a hunter wanted by a cover-up (the law may come),
-  and a hunter left bound at the map's edge (carry them to a bed). Each saved life leaves the cell owing help: the
-  Hunter-net page has a **Call in a cell's help** link while any is owed.
+  and a hunter left bound at the map's edge (carry them to a bed). Each saved life leaves the cells owing help: the
+  **Help owed** row on the Overview page counts it, and **Call in** brings a few of the net's hunters to fight.
 - **Favours.** Hold a cell's captive monster for a season (it comes drugged by drop pod; carry it to a prison bed),
   foster a new imbued, send stakes, silver or silver nitrate, host two cells at odds for a night, patch up a hurt
   hunter, lend a skilled colonist for a season.
