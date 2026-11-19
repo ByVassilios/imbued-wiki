@@ -32,6 +32,29 @@ current rating. The **Willpower** habit on the tab says when the hunter spends i
 | To resist the mind | The default. A point goes against a monster's power over the mind (Dominate, a Gift of fear, a Mind spell) and makes it one step harder |
 | Spend freely | As above, and a point on each Edge roll and each Virtue roll to sway someone, for one sure success |
 
+## Ambitions
+
+Each colony hunter works toward one goal at a time, taken from the hunt. A letter offers three, and
+one of them suits the hunter's Creed. The tab shows the goal and how far along it is, and so does
+the Quests tab. Only what happens after it is taken counts. A met ambition pays its experience the
+same day, and a new letter comes the day after. There is no deadline and no failure. Drop one, or
+turn all three down, and another letter comes in five days.
+
+| Goal | Who draws it | What to do | Pays |
+|---|---|---|---|
+| **Close a case** | Anyone | See one of the colony's cases through to the one behind it. | 5 |
+| **Destroy a monster** | Anyone | Kill two monsters with your own hands. | 5 |
+| **Save someone** | Anyone | Get someone away from a monster that has hurt them, or stand over them while they're down. | 5 |
+| **Redeem a monster** | Anyone | Talk a captured monster into turning from what it is. | 7 |
+| **Find a lair** | Anyone | Get a lead to where a monster sleeps. | 3 |
+| **Hold the line** | Defender | Go a whole season without a colonist dying. | 5 |
+| **Spare a monster** | Innocent | Let a beaten monster live, or let one go on its word. | 5 |
+| **Take the blow** | Martyr | Stand between a monster and someone who is down. | 5 |
+| **Three monsters** | Avenger | Kill three monsters with your own hands. | 7 |
+| **Unmask them** | Judge | Show two monsters for what they are, to yourself or to everyone. | 5 |
+| **Mend the hurt** | Redeemer | Heal two people a monster has hurt. | 5 |
+| **Learn the truth** | Visionary | Learn three things about monsters: from a body, a book, a captive or a case. | 5 |
+
 ## Experience
 
 A hunter earns 0.3 experience a day, plus some for each kill, twice as much for a monster. The
