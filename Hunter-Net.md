@@ -163,6 +163,25 @@ Avengers, Defenders and Judges, with two or three Edges. They see through a vamp
 roll, and a mendicant hunter goes straight for a masked vampire. They use their Edges in a fight. A
 setting turns them off.
 
+## Exposure
+
+How much of the cell the world has seen, from 0 to 100, shown on the Hunters tab's Overview. A
+mortal from outside the colony who sees one of your hunters use an Edge (1.5) or kill a monster
+(4) adds to it once they get away from the map, twice that for a trader. One caravan's story
+counts for 10 at most. It falls by about a third of a point a day, slower once it's high.
+
+| Level | Score | What happens |
+|---|---|---|
+| Quiet | under 20 | Nothing |
+| Talk | 20 | The Hunter-Net scolds the hunter most to blame: one point of Conviction lost |
+| Police | 40 | A patrol asks about a hunter seen with a weapon. Hand the weapon over, or turn them away and the nearest town thinks 15 less of you |
+| Press | 60 | Every faction with towns thinks 10 less of you |
+| Burned | 80 | The nearest hostile monster home learns where the cell lives and raids within three days (the walking dead, if there's none). Something picks up the cell's trail, and a new case opens |
+
+Once 12 points are laid on one hunter, your sworn cell (or the nearest one you know) asks who did
+it. Name them and half of it is cleaned up, take the blame as a colony, or refuse. Standing with
+the Hunter-Net moves 5 up, 5 down or 15 down.
+
 ## The tavern
 
 A tavern counter (Furniture tab) works for a hunter colony too. Its **Guests** button lets in the
