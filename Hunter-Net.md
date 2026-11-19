@@ -163,6 +163,15 @@ Avengers, Defenders and Judges, with two or three Edges. They see through a vamp
 roll, and a mendicant hunter goes straight for a masked vampire. They use their Edges in a fight. A
 setting turns them off.
 
+## The tavern
+
+A tavern counter (Furniture tab) works for a hunter colony too. Its **Guests** button lets in the
+hunters of the nearest cell you know, besides townsfolk. A party of hunters brings word of a lair
+one time in eight.
+
+Their second sight shows them what any guest is, and they hate vampires, werewolves and the Wyrm's
+things, so mixing them with Kindred or Garou guests makes for fights. Pick a bouncer or two.
+
 [← Contents](README.md)
 
 ---
