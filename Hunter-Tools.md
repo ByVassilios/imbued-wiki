@@ -82,6 +82,19 @@ The board also takes the other cells' notes: see [the Hunters' Board](Captured-M
 Two solved cases in five leave something of the culprit's, named for it: a tooth, a ring, a claw, a locket, a key or
 a hat. It says who it was taken from and where, and it's nice to look at (beauty 12).
 
+## Odd relics
+
+Now and then a reward or a ruin turns up something odd: a yellowed knucklebone, a knotted rope,
+a water-stained notebook. Right-click it and pick **Study the odd relic** to carry it to a case
+board or a research bench and work out what it is. A hunter who sees it with second sight knows
+it at a look.
+
+- **The saint's knucklebone**, carried, ends a frenzy, a fear or a madness that no mood caused, once
+  a day.
+- **The hangman's rope** is thrown over a monster and holds it like a net. It holds two, then
+  needs a week to get its grip back.
+- **The dead hunter's notebook** gives one clue on an open case, then it's used up.
+
 ## The first horror
 
 The hostile monster behind a hunter's Imbuing gets a name, and the game remembers it. All three hunters
