@@ -182,6 +182,26 @@ Once 12 points are laid on one hunter, your sworn cell (or the nearest one you k
 it. Name them and half of it is cleaned up, take the blame as a colony, or refuse. Standing with
 the Hunter-Net moves 5 up, 5 down or 15 down.
 
+## Most Wanted
+
+Hunter-net's list of the monsters it most wants dead. Five names roam the world map, whether the
+colony has an imbued or not. Only a colony with an imbued is told of them.
+
+- **Who is on it.** One kind for each monster mod you have loaded: a vampire with Kindred, a Black
+  Spiral Dancer with Garou, a Seer of the Throne with Awakened. With Imbued alone the list holds only
+  the walking dead's worst: a necromancer with its shamblers, or a revenant. All of them shrug off
+  half of every wound.
+- **What it is.** The list never says. Only second sight tells: once one stands on a map with one of
+  your imbued, its kind, its followers and its powers show in its file.
+- **The mark.** Each is a mark on the world map that moves every few days and shows only within 25
+  tiles of a home or a caravan. **Read Most Wanted** on the Hunters window's Overview opens the list.
+- **Meeting one.** Send a caravan to its mark to hunt it. One within 12 tiles can come to the
+  colony: a monster that has never crossed it walks through unless harmed or touched by an Edge, and
+  the walking dead, or one that knows the colony, attack.
+- **The reward.** The imbued who kills one gains 3 Conviction, and the sworn cell gains 10 standing
+  (without one, the Hunter-Net's goodwill rises by 10). The kill goes in the chronicle and can be
+  the subject of art.
+
 ## The tavern
 
 A tavern counter (Furniture tab) works for a hunter colony too. Its **Guests** button lets in the
