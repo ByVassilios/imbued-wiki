@@ -136,6 +136,19 @@ reason when none is), and a cell writes when one opens. Each is hosted once a ye
 Each needs free beds and meals for every guest and night; the dead may strike on one night.
 The host's skill rolls decide each night, and a good showing pays goodwill and xp for the host.
 
+## Contacts and allies
+
+Each dot of Contacts or Allies a hunter has is one person living in a town near the colony. They show on the
+**Contacts** page of the Hunters tab, under the town they live in. They need no looking after. Once a week each can be
+asked for one favour:
+
+- **Goodwill:** they put in a good word, and the town's faction thinks better of the colony.
+- **Sighting:** they name something they saw that wasn't human, and a lead to a lair opens near their town.
+
+A monster that learns one's name ends it. That happens when a hunter lets a captured monster go on its word, and to all
+of a hunter's people when the hunter is taken prisoner. The dot finds someone new a season later. A contact whose town
+is destroyed is gone too.
+
 ## Mentors
 
 A hunter with the Mentor Background is visited now and then by an older hunter, more often for more

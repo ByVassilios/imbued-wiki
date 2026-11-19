@@ -3,13 +3,17 @@
 ## Backgrounds
 
 At the Imbuing a hunter gets the book's five dots of Background, spread at random over its nine.
-Only the three that change play are kept, so most hunters have one or two dots between them.
+Only the five that change play are kept, so most hunters have two or three dots between them.
 
 | Background | What it does |
 |---|---|
 | Destiny | Once a day for each dot, a botched Edge roll is rolled again |
 | Arsenal | 3% better prices a dot when this hunter trades with a [hunter cell's](Hunter-Net.md) post. A hunter who starts with it packs an extra hunter weapon a dot: a stake crossbow, a fire lance, an aspergillum, an incendiary shotgun |
 | Mentor | An older hunter visits now and then with a monster's weakness or the lair of a monster the colony knows. More dots, more visits |
+| Contacts | One person a dot in a town near the colony, who tells the hunter what they see. See [Contacts and allies](Hunter-Net.md#contacts-and-allies) |
+| Allies | One friend a dot in a town near the colony. They count as contacts too, with the same favours |
+
+Hunters from a save made before Contacts and Allies came in roll those two dots once, the first time the save loads.
 
 ## Awareness
 
