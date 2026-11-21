@@ -111,7 +111,7 @@ Refuse; a refusal is noticed. Every one has its own switch and frequency in the 
   monster kind, or an Edge one of your hunters has, one lesson a night (right-click the guest).
 - **Rescues.** A hunter chased by a monster (it follows after dark), a hunter wanted by a cover-up (the law may come),
   and a hunter left bound at the map's edge (carry them to a bed). Each saved life leaves the cells owing help: the
-  **Help owed** row on the Overview page counts it, and **Call in** brings a few of the net's hunters to fight.
+  **Fighters on call** row on the Overview page counts it, and **Call in** brings a few of the net's hunters to fight.
 - **Favours.** Hold a cell's captive monster for a season (it comes drugged by drop pod; carry it to a prison bed),
   foster a new imbued, send stakes, silver or silver nitrate, host two cells at odds for a night, patch up a hurt
   hunter, lend a skilled colonist for a season.
@@ -124,7 +124,7 @@ A guest hurt or killed in your care costs 10 goodwill.
 
 ## Hosting meetings
 
-The Hunter-net page has an "Ask to host" link for the highest meeting the colony can host now (greyed with the
+The Hunter-Net page has an "Ask to host" link for the highest meeting the colony can host now (greyed with the
 reason when none is), and a cell writes when one opens. Each is hosted once a year at most.
 
 | Goodwill | Meeting | Nights |
@@ -184,7 +184,7 @@ the Hunter-Net moves 5 up, 5 down or 15 down.
 
 ## Most Wanted
 
-Hunter-net's list of the monsters it most wants dead. Five names roam the world map, whether the
+Hunter-Net's list of the monsters it most wants dead. Five names roam the world map, whether the
 colony has an imbued or not. Only a colony with an imbued is told of them.
 
 - **Who is on it.** One kind for each monster mod you have loaded: a vampire with Kindred, a Black
@@ -195,7 +195,9 @@ colony has an imbued or not. Only a colony with an imbued is told of them.
   your imbued, its kind, its followers and its powers show in its file.
 - **The mark.** Each is a mark on the world map that moves every few days and shows only within 25
   tiles of a home or a caravan. **Read Most Wanted** on the Hunters window's Overview opens the list.
-- **Meeting one.** Send a caravan to its mark to hunt it. One within 12 tiles can come to the
+- **Meeting one.** Send a caravan to its mark to hunt it. It's found where its kind lives: a
+  vampire's haven, a werewolf's den, a Seer's safehouse, a necromancer's house or a grave chapel,
+  and holds it a few hours before coming out at you. One within 12 tiles can come to the
   colony: a monster that has never crossed it walks through unless harmed or touched by an Edge, and
   the walking dead, or one that knows the colony, attack.
 - **The reward.** The imbued who kills one gains 3 Conviction, and the sworn cell gains 10 standing

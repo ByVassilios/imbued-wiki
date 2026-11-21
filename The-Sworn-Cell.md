@@ -1,22 +1,34 @@
 # The sworn cell
 
 Throw the colony in with one cell and its imbued stop being a headcount. Each has a personality, means, a goal of its
-own and an opinion of you that moves with what you do. They hand you work, owe you favours, hunt beside you and, if
+own and an opinion of you that moves with what you do. They hand you work, owe you debts, hunt beside you and, if
 they come to hate you, work against you.
 
 ## Throwing in
 
-The Hunter-net page of the Hunters window names the nearest cell the colony knows, with **Swear to this home**. You
+The Hunter-Net page of the Hunters window names the nearest cell the colony knows, with **Swear to this home**. You
 need:
 
 - a colony imbued,
-- the cell met and hunter-net on speaking terms with the colony.
+- the cell met and Hunter-Net on speaking terms with the colony.
 
 One cell at a time. Its roster fills to 8 to 12 named imbued from its hunters, and the most seasoned leads. New
 pages appear on the Hunters window's rail: **People**, **Council** and, while a war runs, **War**.
 
-Leaving costs 20 goodwill with hunter-net. Loyal hunters drop to -5 regard, and the favours the cell owes you shrink
+Leaving costs 20 goodwill with Hunter-Net. Loyal hunters drop to -5 regard, and the debts the cell owes you shrink
 a size. A cell that falls frees the colony with a letter.
+
+## Debts
+
+Every cell the colony knows can owe it debts, trivial, minor, major or life, as Kindred courts do. A cell's mission
+pays one when it's done: trivial for an early colony, minor once raids come at a mid-game size, major for the hardest.
+Once you throw in with a cell, its hunters owe you debts for their own errands too.
+
+Spend them on the **Debts** page of the Hunters window. **Ask** lists what a cell does for a debt, and a bigger debt
+covers a smaller service: two plain hunter's weapons (trivial), a few of its hunters at the door or a lead that opens a
+case (minor), one of its better weapons (major), a season's training, 8 experience and a point of Conviction for every
+colony hunter (life). **Ledger** lists each debt with who owes it and why; **Call in** on a row picks what that debt
+pays for. Trained dogs bought from a cell are paid in debts too. Leaving a sworn cell shrinks its debts a size.
 
 ## People
 
@@ -41,13 +53,13 @@ Regard drifts a point toward 0 every season.
 | Personality | How they pay and behave |
 |---|---|
 | Greedy | silver x0.7, trust x1.5 |
-| Cautious | silver and trust x1.25, but the biggest favour they'll owe is a size smaller |
+| Cautious | silver and trust x1.25, but the biggest debt they'll owe is a size smaller |
 | Loyal | everything x1.25 while you never cross them or their friends; betrayal makes an enemy for good |
-| Conniving | pays with a favour another hunter owes them |
+| Conniving | pays with a debt another hunter owes them |
 | Cowardly | one more open mission, aimed at their rivals; pay x1.2 |
 | Proud | trust x1.5, silver x0.8; refusals cost 3 regard |
 | Zealous | only the hunt; those pay x1.5 |
-| Generous | everything x1.3; now and then asks a favour back |
+| Generous | everything x1.3; now and then asks one back |
 | Vengeful | bad blood never fades; an enemy at -5 |
 | Burned | regard grows half as fast |
 | Driven | asks for fights, and pays x1.3 for them |
@@ -65,13 +77,13 @@ is three steps: two missions bent to it, then the prize. Keeping the prize is a 
 | Collector | a hunter's weapon |
 | Lore hunter | a dead cell's casebook (experience for an imbued reader) |
 | Power seeker | silver by its means, and its vote for a year |
-| Revenge | a major favour and the enemy's goods |
+| Revenge | a major debt and the enemy's goods |
 | Freedom | its regard stays at +6 or more for good |
-| Childe | a minor favour now, a new hunter on your side later |
+| Childe | a minor debt now, a new hunter on your side later |
 | Mercy | each colony imbued learns, 8 experience |
 | Kingmaker | the new Leader starts at regard +6 |
 | Homecoming | another cell, met |
-| Buried secret | a life favour |
+| Buried secret | a life debt |
 
 ## Cells of the local hunt
 
@@ -98,7 +110,7 @@ regard moves the same way. Plotters who win take the lead, and nobody plots agai
 
 ## Roles
 
-Under **Your seats** on the Hunter-net page, once hunter-net's goodwill is 25 or more, a colony imbued can take a
+Under **Your seats** on the Hunter-Net page, once Hunter-Net's goodwill is 25 or more, a colony imbued can take a
 role. A role held by a hunter makes that hunter your rival. The Leader is chosen by the cell's vote: the cell's
 average regard for the colony must be +4 or more, and the colony must have done more missions for it than anyone.
 

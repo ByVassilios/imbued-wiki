@@ -28,7 +28,7 @@ changed settings, and **Changed only** by the search box lists just those.
 | A hunted stranger comes | A colony with no hunters gets a stranger running from a monster, between day 15 and 40 and again every 30 to 60 days until one is taken in. Off, the stranger only comes now and then as an ordinary event | On |
 | Bait lures | A baited stake calls a lone monster now and then. Off, it only turns raids already on the map | On |
 | The walking dead | Off, unburied corpses never rise | On |
-| Most Wanted | Five monsters hunter-net wants dead roam the world map. Off, they leave the map | On |
+| Most Wanted | Five monsters Hunter-Net wants dead roam the world map. Off, they leave the map | On |
 | An exposed monster turns its town | Off, naming or exposing a monster in a town has no one take it up | On |
 | Case rewards | The silver and goodwill for a solved case, 0% to 300% | 100% |
 | Notes on the Hunters' Board | How often a new note goes up, 25% to 300% | 100% |
