@@ -1,5 +1,7 @@
 # The Rim by Night: Imbued
 
+> **This wiki has moved** to [The Rim by Night wiki](https://byvassilios.github.io/rim-by-night-wiki/imbued/), one site for every mod in the series. This copy is no longer updated.
+
 The Rim by Night: Imbued brings Hunter: The Reckoning (1999) to RimWorld. A colonist who watches a
 monster hurt someone can be imbued: the voices called the Messengers wake them up, and from then on
 they see monsters for what they are. They get a Creed, the three Virtues of Mercy, Vision and Zeal,
